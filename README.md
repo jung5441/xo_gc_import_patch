@@ -2,6 +2,11 @@ GC → XO 뇌신왕 이식 패치툴
 
 Super Robot Taisen GC의 **거대 카라쿠리 뇌신왕** 관련 리소스를 Super Robot Taisen XO에 이식하는 Windows용 단일 실행 파일입니다. 일본어 원본 XO와 검증된 한글패치 1.0 XO를 하나의 EXE에서 선택할 수 있습니다.
 
+실기 미대응
+
+한글패치 다운로드 (공유중단중)
+https://blog.naver.com/jsyhmju/224449921104
+
 현재 릴리스의 SHA-256:
 
 ```text
